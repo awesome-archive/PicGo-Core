@@ -1,3 +1,55 @@
+## :tada: 1.4.4 (2019-12-30)
+
+
+### :bug: Bug Fixes
+
+* image_repeated error from smms ([#28](https://github.com/PicGo/PicGo-Core/issues/28)) ([f246b8d](https://github.com/PicGo/PicGo-Core/commit/f246b8d))
+
+
+
+## :tada: 1.4.3 (2019-12-27)
+
+
+### :sparkles: Features
+
+* add aliyun optionUrl option ([0a3bdea](https://github.com/PicGo/PicGo-Core/commit/0a3bdea))
+
+
+
+## :tada: 1.4.2 (2019-12-26)
+
+
+### :bug: Bug Fixes
+
+* cli source ([be6cdcc](https://github.com/PicGo/PicGo-Core/commit/be6cdcc))
+
+
+
+## :tada: 1.4.1 (2019-12-26)
+
+
+
+# :tada: 1.4.0 (2019-12-26)
+
+
+### :sparkles: Features
+
+* add config methods && pluginHandler to ctx ([f9bb9fb](https://github.com/PicGo/PicGo-Core/commit/f9bb9fb))
+* **plugin:** passing environment variables ([50467c7](https://github.com/PicGo/PicGo-Core/commit/50467c7))
+
+
+### :bug: Bug Fixes
+
+* correct sm.ms err msg ([#18](https://github.com/PicGo/PicGo-Core/issues/18)) ([f0a4e8a](https://github.com/PicGo/PicGo-Core/commit/f0a4e8a))
+* pluginHandler args length error ([e15eac2](https://github.com/PicGo/PicGo-Core/commit/e15eac2))
+
+
+### :package: Chore
+
+* **types:** added typings field to export type inform… ([#23](https://github.com/PicGo/PicGo-Core/issues/23)) ([8bb16e7](https://github.com/PicGo/PicGo-Core/commit/8bb16e7))
+
+
+
 ## :tada: 1.3.7 (2019-05-12)
 
 
